@@ -1,6 +1,6 @@
-# velocity-ia-releases
 
-# VELOCITY IA — Releases
+
+# Velociti IA — Releases
 
 Ce dépôt héberge les installateurs Windows et les fichiers de mise à jour de VELOCITY IA.
 
